@@ -1,5 +1,7 @@
-Esta es la historia de Ronny Cartagena
+﻿Esta es la historia de Ronny Cartagena
 
 Tiene 18 años y vive en Quito Ecuador
 
 Esta aprendiendo en Platzi como usar Git
+
+Hoy hablaremos de su vida
